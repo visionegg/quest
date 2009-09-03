@@ -7,6 +7,7 @@ setup(
     description = "QUEST algorithm for finding threshold",
     author = "Dennis Pelli",
     maintainer = "Andrew D Straw",
+    url = "http://visionegg.org/Quest",
     license = "BSD",
     packages = [''],
     package_dir = {'':'src'},
